@@ -1,0 +1,1 @@
+<img src="{{('logo/logo.png')}}" width="70px">
